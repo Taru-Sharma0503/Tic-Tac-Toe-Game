@@ -21,3 +21,6 @@ Automatic winner detection and draw handling
 Easy-to-read CLI display of the board
 
 ## Screenshots 📸
+![choice](https://github.com/user-attachments/assets/a9ac1a4d-8f36-41e5-aec6-7656ab666814)
+![position asking](https://github.com/user-attachments/assets/0cf6c056-aac1-4f72-82c1-0a7f45984ff8)
+![winner](https://github.com/user-attachments/assets/72bc9d87-4dd8-406d-9135-9acfc5e8269a)
